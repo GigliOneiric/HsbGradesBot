@@ -6,6 +6,7 @@ Requirements:
 - Dont forget pip install ;)
 - Put the ChromeDriver in your current directory
 - Put the HTML-File from the Liste der angemeldeten Prüfungen des Studierenden in the current directory named as current.html
+- Activate access for less secure apps in your Google account
 
 Recommendation:
 
